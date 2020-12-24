@@ -2,10 +2,22 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: For descriptions, see the <a href="https://www.ualberta.ca/school-of-library-and-information-studies/study/courses/mlis-courses.html">MLIS Courses page</a>
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+
+<dl>
+  <dt>Winter 2021</dt>
+  <dd>LIS 538 Digital Libraries (remote and online)</dd>
+  <dt>Fall 2020</dt>
+  <dd>LIS 533: Database Design for Information Management</dd>
+	<dd>LIS 534: Information Architecture - Web Design for Usability</dd>
+ <dt>Winter 2020</dt>
+	<dd>LIS 538 Digital Libraries</dd>
+	<dd>LIS 505: Introduction to Research in Library and Information Studies</dd>
+ <dt>Fall 2019</dt>
+	  <dd>LIS 533: Database Design for Information Management</dd>
+	<dd>LIS 534: Information Architecture - Web Design for Usability</dd>
+</dl>
