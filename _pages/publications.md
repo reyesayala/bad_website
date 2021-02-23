@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-style: apa
+<!--style: apa-->
 description: publications by categories in reversed chronological order.
 nav: true
 ---
